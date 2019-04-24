@@ -1,0 +1,3 @@
+This is a simple project on estimating Boston Housing Price dataset available in UCI Machine Learning Repository. But sckit-learn 
+was used to import the data.
+Simple Linear regression was used to train and predict the price.
